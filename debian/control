@@ -1,0 +1,16 @@
+Source: proxima
+Section: xfce
+Priority: optional
+Maintainer: Neil R. Ross <aravisian@protonmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 1.1-6
+Homepage: https://github.com/Aravisian
+
+Package: proxima
+Section: xfce
+Priority: optional
+Depends: ${misc:Depends}
+XSBC-Original-Maintainer: Neil R. Ross <aravisian@protonmail.com>
+Architecture: all
+Description: gtk theme
+ proxima theme for gtk and window managers

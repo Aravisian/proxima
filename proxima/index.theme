@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Proxima
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Proxima
+MetacityTheme=Proxima
+ButtonLayout=menu:minimize,maximize,close
