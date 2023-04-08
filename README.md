@@ -1,0 +1,2 @@
+# proxima
+Proxima-GTK-theme
